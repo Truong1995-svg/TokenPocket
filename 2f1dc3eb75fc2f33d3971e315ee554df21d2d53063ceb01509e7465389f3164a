@@ -1,0 +1,1001 @@
+Package: osconfig
+Version: 1.0.5.2024012001
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4222
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 67350ae2209e30e66556d5c1f5837d319cfc180e3dc9f184dea94173ce37b0c6
+Size: 1565300
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024012001_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024012401
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4226
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: a05247c3ed7a7af9337fc7ecdfcdc65333e085917c3fa5fe66a2ceb398c7d64a
+Size: 1566950
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024012401_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024012501
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4226
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 3621feef019d7d4ef687b99225bfd70bebb489d3c376360b0bb7d3c5970c5a76
+Size: 1567330
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024012501_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024012601
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4226
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: b30ef275c7a16f594de7ab794deeaf5c59cd4a88e5f6e486204f48ebe8e1dbaf
+Size: 1567338
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024012601_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024012701
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4226
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: b706ca908015242a48d8a66000afbbd50c78f4564fbabe067e33cd607b7fee90
+Size: 1567408
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024012701_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024013001
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4226
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 691be1cce88fa95c9cb137c8a69b8a5aa4af87a54834346eeb7973840feb1b42
+Size: 1567404
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024013001_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024013101
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4226
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 030e29ee29886290528412e7188dc8ecc50c162dbc3dcabf8055fc143e12163f
+Size: 1567404
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024013101_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024020201
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4226
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 85ec3a5a8af2320bc353a96f2926f5c4fb6c08e052604d3c55eebecf16efc016
+Size: 1567378
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024020201_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024020301
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4226
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 696a3970daf79f15b81058b471f5ca3d9190475833036ddac3317dcf2601aa8d
+Size: 1567434
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024020301_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024020601
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4226
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: baa7b43bce7b318372d1f2389a4fee93d81c3b4da11dc73bdc24ad2fe7650739
+Size: 1567460
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024020601_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024020701
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4226
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 9a74eb7b5f0c6827e32f4ec7a7642310095f998a2ba784f8c8402a2651edcc9b
+Size: 1567642
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024020701_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024020801
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4234
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 50a50247e39c366e7f34197b3d9956967909b86fbe9f686c2cf63b3f829dc2e9
+Size: 1570060
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024020801_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024020901
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4234
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: a3fe4d9223b60bc03ca7c552808197d8c36c39c45ef2fb48389a6a0457e6b1b5
+Size: 1570190
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024020901_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024021501
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4234
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+Homepage: $(OsConfigProjectUrl)
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: fb2af9c23e255189d9fb973e19f4324ec63de1d17a3d302f6827df582dd49183
+Size: 1570720
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024021501_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024021601
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4234
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+Homepage: $(OsConfigProjectUrl)
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 32ce70bf2cd485f22a5803a4c76b5da7b5d0ffaf8c0c0838e737a2e80ed4a5ab
+Size: 1570734
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024021601_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024022101
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4234
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+Homepage: $(OsConfigProjectUrl)
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 2dcbe61d1920e7c98f930bfda2fc31231a74aaf38ee8e09cd4499517a842c7af
+Size: 1570730
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024022101_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024022201
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4234
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+Homepage: $(OsConfigProjectUrl)
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 115a368ef295e1c6067ab20e156d0890ff4d7622447afe7f84e9601a598128f6
+Size: 1570722
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024022201_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024022301
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4234
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+Homepage: $(OsConfigProjectUrl)
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 89becb7bc109636fe81cce58367378dff8f7693cf457012236d08b9781c67fdd
+Size: 1570892
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024022301_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024022401
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4247
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+Homepage: $(OsConfigProjectUrl)
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 0aff5412afe216891376a389dee9f8fc7234d3c5b0aed28942d221afe3879557
+Size: 1572934
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024022401_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024022901
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4247
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+Homepage: $(OsConfigProjectUrl)
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: c83bf89a3738947bf1e28226af48c6edb93620cf26fd8a7a9d94a06d08f2954b
+Size: 1572928
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024022901_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024030201
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4247
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+Homepage: $(OsConfigProjectUrl)
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 75776c85d68cdee5bbbc73d140e4e3a43c1827c5e2ed019cf788020a48e89989
+Size: 1572932
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024030201_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024032601
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4247
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices. OSConfig supports multi-authority device management over Azure and Azure Portal/CLI, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: c8d82c855d3b95538c0dec754f1ca7468964e6acdc85d76e4fe1f50550b10db9
+Size: 1570954
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024032601_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024032801
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4247
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices. OSConfig supports multi-authority device management over Azure and Azure Portal/CLI, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 0603a5816ecb49213de9ccd74ecae99b9f2887c2602d919be63345b3fd4b0075
+Size: 1570954
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024032801_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024032901
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4247
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices. OSConfig supports multi-authority device management over Azure and Azure Portal/CLI, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 5e4933662866177c94034a31d58f486055ed23a7d4449b62c64322335f9d148e
+Size: 1570948
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024032901_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024033001
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4247
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices. OSConfig supports multi-authority device management over Azure and Azure Portal/CLI, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 772c18111fc0b9384a0a534983936e3cede12573b66f139aa389d2bd14608fc6
+Size: 1571458
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024033001_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024040401
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4247
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices. OSConfig supports multi-authority device management over Azure and Azure Portal/CLI, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: fc272c7cd95f30632c812b951643dca8817c411ccd99d6c96cf738a6105c48f7
+Size: 1571450
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024040401_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024042201
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4365
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices. OSConfig supports multi-authority device management over Azure and Azure Portal/CLI, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 223cbe0acb44d344b9cb1618d292387f0422d7996f51de4f78f1a981dd4af7f8
+Size: 1627908
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024042201_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024042302
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4365
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices. OSConfig supports multi-authority device management over Azure and Azure Portal/CLI, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 384cfd59be427d4b5e97bee5e27ade0c84d209d9e78006692b07874f08aa5f9c
+Size: 1627902
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024042302_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024042301
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4365
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices. OSConfig supports multi-authority device management over Azure and Azure Portal/CLI, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: ca9eaf7d6d60aad93f6abbf979b87fcc46ee7aab56fea5aa7ba88e32aed458ef
+Size: 1627916
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024042301_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024042401
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4365
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices. OSConfig supports multi-authority device management over Azure and Azure Portal/CLI, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: cdb9d3993c12d8a2bb9fe983ea785b92f0937de887689d9954acef5e66f01eca
+Size: 1627898
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024042401_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024042501
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4365
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices. OSConfig supports multi-authority device management over Azure and Azure Portal/CLI, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 15a8b95b634a72488a318c0b5b88b2d2e5695d46b832768a724e52175f232a72
+Size: 1627834
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024042501_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024042601
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4365
+Maintainer: osconfigsupport@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices. OSConfig supports multi-authority device management over Azure and Azure Portal/CLI, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 508ad3a83845ac91d18478bfd3dda78c285e81a0e074541c8b2423a4bb02b4a1
+Size: 1627840
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024042601_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024050201
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4407
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: b037d0c7470dde9201ca4d52028a1eaca553261422571111a3162b91c166a0c6
+Size: 1638044
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024050201_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024050301
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4407
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 2a7ed4d10c5fb845053266b9e4b0582162be244dade465406b3dfca4760cf066
+Size: 1638028
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024050301_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024050401
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4407
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: f6e3fd5b0d0a2b936ad94c9727d5603081ab4a976d278c4cf1dc726c75c9102c
+Size: 1638030
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024050401_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024050501
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4407
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 38badb16ec97eb7fc883fec42dde8c45c68511d2523eaf098cae5d427501bf2c
+Size: 1638032
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024050501_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024050601
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4407
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 62a2a83d6448c93435151b89fec83b10c1fd5bb1f3e7e6639609505f2b79b18d
+Size: 1638018
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024050601_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024050701
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4410
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 44fd85b7e0881219cb294373f6635e46cb3c02e49b6548856187fafb6d563fd6
+Size: 1649764
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024050701_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024050801
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4430
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: bef372762f0e8d5863d135ca9b94afd03077e7e159614c3de25dd5a6ce78fe53
+Size: 1653930
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024050801_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024050901
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4430
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: bebb6fa74dcbfc12466bc854cf44090880275bebc7e90078bf038de818b6bbaa
+Size: 1653930
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024050901_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024051001
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4508
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 793c312638deee08401fe9ef86464fba0d9a6853d47200b822929d1e5ae3c621
+Size: 1683954
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024051001_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024051101
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4508
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 7cd9adb363ee2430a4ff6955d49b7dfe84824ab4ea5e078c421057d6899c5724
+Size: 1683946
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024051101_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024051201
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4508
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: ed7ac740a54ceb9bb7e779c3b3150e4e3f08bf41aa34cba574e3a624b725ebf7
+Size: 1683944
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024051201_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024051301
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4508
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 3ed92b7312012afc2a43e8cb1b3efb30c84abc07797048409a4f1c407fa8b86c
+Size: 1683950
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024051301_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024051401
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4648
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 8e34f16f3f2bfb5de58e1c0469d258dbc60345017943c7439a5b615cb73caabb
+Size: 1732530
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024051401_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024051501
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4648
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: ed43d0a67552e3e6485f5ae555291913c2f392536df7eb52fd241de171b6f47b
+Size: 1732528
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024051501_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024052301
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4678
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 388108f07276005c0df70886672a58b09b954a3b33d4a61650d57b337fdfce7c
+Size: 1748850
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024052301_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024052401
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4678
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 10dec0d4a8e588f61018c1306895ccc1e72d06bd17c4f91ed58fad30a3130dff
+Size: 1748848
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024052401_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024052501
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4736
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 8b8bb5538f73b2be6cff214c66818d6bf1f1166e5a4786a370a81af0747c1864
+Size: 1769700
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024052501_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024052601
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4736
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 53cd9f7b9267af426e9171fe465d6a19160d5a3b74ea06c513750e9bc048865f
+Size: 1769706
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024052601_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024052701
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4736
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: dac5af0075c2410ae15daeb598fe46e55cff21a79c5ff4eab51e7b7c9e516444
+Size: 1769704
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024052701_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024052801
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4736
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: ff580621ab3d59dfde137a3d25c71e9c12e1dd66295b39b3401298f80dd48727
+Size: 1769710
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024052801_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024052901
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4856
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 74b4330cd47a69f234db8f8e2d0fcdb859f3db0a5470c8db72db6515290f155f
+Size: 1814632
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024052901_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024053001
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4880
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 2b6e298834b34ff672ec739aad591287918dde280e83fd18f46bf00bc9eb8ea1
+Size: 1818650
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024053001_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024053101
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4868
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 81d27834805ac309c59c57efcddf41e77f89ee9a14bd1a88354c36277180ed19
+Size: 1817926
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024053101_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024060101
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4868
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 0188b1226e7158117288096a9efe56ed7b31613aeed24e7dc7726ae43431a1be
+Size: 1817928
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024060101_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024060201
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4868
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: bc2ab7402d3ff1a647138723e435ef474006c8ed74b02169d5dd241e27f5c7e4
+Size: 1817914
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024060201_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024060301
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4868
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 9476bdbd2cb611557f74afdf5a84d69aca216ae96916b64998ccc61d1888559a
+Size: 1817918
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024060301_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024060401
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4868
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: fcfe46b4ab47af231d37819ec6d78166c39a21c89a23f7c61ebd74bd9b884a25
+Size: 1817908
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024060401_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024060501
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4964
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 1829584e562092d545624de522630d3208f82debee8a7b9b091558805b1ae7e8
+Size: 1854550
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024060501_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024060601
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4972
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 8d666af5b6a76321d6ec761ac55ec3375bac6f83a70549e66ffffcf638d8225c
+Size: 1856392
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024060601_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024060701
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 4976
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 1307c8241b3f2721b3d718821e9c6d776afe3a3fb2e3c2571c764902042b9185
+Size: 1859360
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024060701_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024062801
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 2515
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: fa8a40161657107d886d94f529bc1392c89fb5757151588fe5d82f3beb22b468
+Size: 948310
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024062801_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024062901
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 2515
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 757b5bc65de391b327d1ff08865b0a031bbe61233b31096483f274328444e9e4
+Size: 948294
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024062901_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024063001
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 2515
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: 30b1f00bdec3e57a9459ecde22829e8f45af4095a39be75f7fa4285321901e3d
+Size: 948294
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024063001_arm64.deb
+
+Package: osconfig
+Version: 1.0.5.2024070101
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 2515
+Maintainer: osconfigcore@microsoft.com
+Description: Azure OSConfig
+ Azure OSConfig is a modular security configuration stack for Linux Edge devices that supports multi-authority device management over Azure, GitOps, as well as local management.
+Homepage: https://github.com/Azure/azure-osconfig/
+Suggests: aziot-identity-service (>= 1.2.0)
+SHA256: ae371e3744a04516a418ebc9e273081222d87f29651fbb5c5a134c8c27433cb9
+Size: 948282
+Filename: pool/main/o/osconfig/osconfig_1.0.5.2024070101_arm64.deb
+
+Package: mde-netfilter
+Version: 100.69.78
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 93
+Maintainer: Microsoft Defender for Endponts <mdatplinuxpackages@microsoft.com>
+Description: Microsoft Defender for Endpoints Netfitler ({{{RELEASE_RING}}}) Microsoft Defender for Endpoints Netfilter is an open source software to filter packets in userspace
+Depends: libnetfilter-queue1, libglib2.0-0
+SHA256: 87718a1fde9fa8ffec7eac40b964de7c42fa424c98de5c88608d7a1a314e144f
+Size: 25268
+Filename: pool/main/m/mde-netfilter/mde-netfilter_100.69.78_arm64.deb
+
+Package: mdatp
+Version: 101.25022.0001-insiderfast
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 599345
+Maintainer: Microsoft Defender Group <mdatplinuxpackages@microsoft.com>
+Description: Microsoft Defender (InsiderFast)
+   Microsoft Defender is a complete endpoint
+  security solution. It delivers preventative protection, post-breach
+ detection, automated investigation, and response.
+Depends: libc6 (>= 2.23), uuid-runtime, libpcre2-8-0, mde-netfilter, iptables
+SHA256: 1763d96707bb00dc5fa46b9d7363616c51543f73ef14685a3f8dd048a10b7d60
+Size: 153993760
+Filename: pool/main/m/mdatp/mdatp_101.25022.0001-insiderfast_arm64.deb
+
+Package: mdatp
+Version: 101.25032.0001-insiderfast
+Architecture: arm64
+Section: devel
+Priority: optional
+Installed-Size: 511412
+Maintainer: Microsoft Defender Group <mdatplinuxpackages@microsoft.com>
+Description: Microsoft Defender (InsiderFast)
+   Microsoft Defender is a complete endpoint
+  security solution. It delivers preventative protection, post-breach
+ detection, automated investigation, and response.
+Depends: libc6 (>= 2.23), uuid-runtime, iptables
+SHA256: 504a958a07a64004f9aac6344ae106ed726f212d0cd31e06e600290185b08f41
+Size: 152087170
+Filename: pool/main/m/mdatp/mdatp_101.25032.0001-insiderfast_arm64.deb
+
